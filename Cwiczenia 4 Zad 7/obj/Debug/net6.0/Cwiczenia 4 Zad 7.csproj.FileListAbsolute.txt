@@ -1,0 +1,15 @@
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\bin\Debug\net6.0\Cwiczenia 4 Zad 7.exe
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\bin\Debug\net6.0\Cwiczenia 4 Zad 7.deps.json
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\bin\Debug\net6.0\Cwiczenia 4 Zad 7.runtimeconfig.json
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\bin\Debug\net6.0\Cwiczenia 4 Zad 7.dll
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\bin\Debug\net6.0\Cwiczenia 4 Zad 7.pdb
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.csproj.AssemblyReference.cache
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.AssemblyInfoInputs.cache
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.AssemblyInfo.cs
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.dll
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\refint\Cwiczenia 4 Zad 7.dll
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.pdb
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\Cwiczenia 4 Zad 7.genruntimeconfig.cache
+C:\Users\Wykładowca-218A\Desktop\4.12\Cwiczenia 4 Zad 7\obj\Debug\net6.0\ref\Cwiczenia 4 Zad 7.dll
